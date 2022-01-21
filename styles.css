@@ -184,12 +184,6 @@ body {
 
 @media (max-width: 1200px) {
 
-  .attribution {
-    position: relative;
-    text-align: center;
-    margin-top: 20px;
-  }
-
   .container {
     padding: 7%;
     grid-template-rows: repeat(3, minmax(250px, auto));
@@ -248,10 +242,6 @@ body {
 }
 
 @media (max-width: 500px) {
-
-  .attribution {
-    margin-top: 10px;
-  }
 
   .container {
     padding: 5%;
